@@ -1,2 +1,2 @@
 Git commands even a monkey can understand
-master
+pull: Obtain the content of the remote repository
