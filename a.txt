@@ -1,1 +1,2 @@
 plik z pycharm
+komit1
