@@ -1,5 +1,6 @@
-#To dupa nowy plik na bug_fix - po zmianach
+#EKALKON
 
 
-def test():
-    print("dupa")
+def main():
+    #tralalala
+    return True
