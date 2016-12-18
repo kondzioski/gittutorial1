@@ -1,5 +1,5 @@
-#To dupa nowy plik na bug_fix - po zmianach
+#EKAPILE
 
 
-def test():
-    print("dupa")
+def konrad():
+    print("dupa12")
