@@ -1,6 +1,6 @@
 #EKALKON
 
 
-def main():
-    #tralalala
+def konrad():
+    print("dupa12")
     return True
